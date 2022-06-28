@@ -18,17 +18,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KillerStrike17&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KillerStrike17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KillerStrike17&theme=vue"/>
-</p>
-
-## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=KillerStrike17&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KillerStrike17&theme=vue" />
-</p>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KillerStrike17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
