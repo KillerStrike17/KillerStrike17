@@ -1,3 +1,9 @@
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Shubham Agnihotri</h1>
+
+
 # 💫 About Me:
 🔭 I’m currently working as a Data Scientist<br>🤝 I’m looking for teams mates for some Kaggle challenges<br>🌱 I’m currently learning Animation and VFX<br>💬 Ask me about Computer Vision, Deep Learning and Machine Learning<br>⚡ Fun fact - I workout 4 hours a day
 
@@ -11,6 +17,17 @@
 ![](https://github-readme-stats.vercel.app/api?username=KillerStrike17&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KillerStrike17&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KillerStrike17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KillerStrike17&theme=vue"/>
+</p>
+
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=KillerStrike17&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KillerStrike17&theme=vue" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KillerStrike17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
