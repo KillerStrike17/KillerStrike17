@@ -21,6 +21,74 @@
 # 📊 Coding Stats:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 15 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 72 Public Repositories 
+ > 
+> 🔑 23 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+🌆 Daytime                602 commits         █████████░░░░░░░░░░░░░░░░   37.98 % 
+🌃 Evening                549 commits         █████████░░░░░░░░░░░░░░░░   34.64 % 
+🌙 Night                  277 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Tuesday                  246 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Wednesday                161 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Thursday                 280 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Friday                   142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Saturday                 225 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Sunday                   315 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         50 repos            ██████████████░░░░░░░░░░░   55.56 % 
+Python                   31 repos            █████████░░░░░░░░░░░░░░░░   34.44 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+```
+
+
+
+
+ Last Updated on 06/03/2025 18:06:23 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
