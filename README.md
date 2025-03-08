@@ -21,7 +21,9 @@
 # 📊 Coding Stats:
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -64,14 +66,17 @@ Sunday                   315 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     19 mins             █████████████████████████   98.54 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+JavaScript               1 hr 55 mins        ██████████████████░░░░░░░   70.99 % 
+YAML                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -87,7 +92,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/03/2025 01:39:32 UTC
+ Last Updated on 08/03/2025 01:13:44 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
