@@ -23,7 +23,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -66,14 +66,14 @@ Sunday                   315 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   9 mins              █████████████████░░░░░░░░   68.91 % 
-Markdown                 4 mins              ████████░░░░░░░░░░░░░░░░░   31.09 % 
+Python                   5 mins              ██████████████░░░░░░░░░░░   55.42 % 
+Markdown                 4 mins              ███████████░░░░░░░░░░░░░░   44.58 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -89,7 +89,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2025 01:39:29 UTC
+ Last Updated on 21/03/2025 01:40:47 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
