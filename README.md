@@ -66,14 +66,13 @@ Sunday                   315 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 3 mins         ████████████████████████░   97.53 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -89,7 +88,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/04/2025 01:44:29 UTC
+ Last Updated on 08/04/2025 01:42:19 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
