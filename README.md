@@ -23,7 +23,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -78,17 +78,17 @@ No Activity Tracked This Week
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         49 repos            ██████████████░░░░░░░░░░░   54.44 % 
-Python                   31 repos            █████████░░░░░░░░░░░░░░░░   34.44 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Python                   31 repos            █████████░░░░░░░░░░░░░░░░   34.07 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 
 
 
 
- Last Updated on 29/07/2025 02:11:27 UTC
+ Last Updated on 30/07/2025 02:02:09 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
