@@ -21,15 +21,17 @@
 # 📊 Coding Stats:
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2043%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.24%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.24%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.1 MB Used in GitHub's Storage 
+> 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -37,6 +39,42 @@
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+🌆 Daytime                614 commits         ██████████░░░░░░░░░░░░░░░   38.50 % 
+🌃 Evening                556 commits         █████████░░░░░░░░░░░░░░░░   34.86 % 
+🌙 Night                  265 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Tuesday                  252 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Wednesday                163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Thursday                 282 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Friday                   145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Saturday                 230 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Sunday                   303 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -50,7 +88,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 02:07:57 UTC
+ Last Updated on 06/01/2026 01:58:15 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
