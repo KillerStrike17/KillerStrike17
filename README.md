@@ -37,42 +37,6 @@
  > 
 > 🔑 30 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-🌆 Daytime                639 commits         ██████████░░░░░░░░░░░░░░░   38.33 % 
-🌃 Evening                585 commits         █████████░░░░░░░░░░░░░░░░   35.09 % 
-🌙 Night                  278 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Tuesday                  257 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Wednesday                166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Thursday                 286 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Friday                   150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Saturday                 268 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Sunday                   315 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -86,7 +50,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:53:04 UTC
+ Last Updated on 25/07/2026 02:51:26 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
